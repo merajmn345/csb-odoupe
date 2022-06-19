@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "https://merajmn345.github.io/csb-odoupe/static/js/main.a3918e24.chunk.js",
+    "main.js.map": "https://merajmn345.github.io/csb-odoupe/static/js/main.a3918e24.chunk.js.map",
+    "runtime-main.js": "https://merajmn345.github.io/csb-odoupe/static/js/runtime-main.6b43f47c.js",
+    "runtime-main.js.map": "https://merajmn345.github.io/csb-odoupe/static/js/runtime-main.6b43f47c.js.map",
+    "static/js/2.305633aa.chunk.js": "https://merajmn345.github.io/csb-odoupe/static/js/2.305633aa.chunk.js",
+    "static/js/2.305633aa.chunk.js.map": "https://merajmn345.github.io/csb-odoupe/static/js/2.305633aa.chunk.js.map",
+    "index.html": "https://merajmn345.github.io/csb-odoupe/index.html",
+    "static/js/2.305633aa.chunk.js.LICENSE.txt": "https://merajmn345.github.io/csb-odoupe/static/js/2.305633aa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6b43f47c.js",
+    "static/js/2.305633aa.chunk.js",
+    "static/js/main.a3918e24.chunk.js"
+  ]
+}
